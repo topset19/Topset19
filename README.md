@@ -11,17 +11,17 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 
 💬 Ask me about: DataBases and MERN Applications
 
-## Coding Languages and Profieciencies 04.09.2024
+## Coding Languages and Proficiencies 04.09.2024
 
-💻 Python (Novice) - Currently Learning 
+💻 Python: (Novice) - Currently Learning 
 
-💻 Javascript & Typescript (Intermediate) 
+💻 Javascript & Typescript: (Intermediate) 
  
-💻 C++ (Intermediate)
+💻 C++: (Intermediate)
 
-💻 Swift (Capable)
+💻 Swift: (Capable)
 
-💻 HTML & CSS (effective) - Currently Learning
+💻 HTML & CSS: (effective) - Currently Learning
 
 ## How to reach me: 
 📫 Topi.Setala@student.lab.fi : Topset19@gmail.com : 0456918680 
