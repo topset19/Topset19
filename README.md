@@ -24,7 +24,11 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 💻 HTML & CSS: (effective) - Currently Learning
 
 ## How to reach me: 
-📫 Topi.Setala@student.lab.fi : Topset19@gmail.com : 0456918680 
+📫 School Email: Topi.Setala@student.lab.fi
+
+📭 Personal Email: Topset19@gmail.com 
+
+📲 Phone Number: 0456918680 : +358456918680
 
 ⚡ Fun fact: I hate carrots. No particular reason, I just don't like them. I can also juggle (for 30s)!
 
