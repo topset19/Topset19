@@ -13,7 +13,7 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 
 ## Coding Languages and Proficiencies 04.09.2024
 
-💻 Python: (Novice) - Currently Learning 
+💻 Python: (Intermediate) - Currently Learning 
 
 💻 Javascript & Typescript: (Intermediate) 
  
@@ -22,6 +22,8 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 💻 Swift: (Capable)
 
 💻 HTML & CSS: (effective) - Currently Learning
+
+💻 C# (Novice) - Currently Learning
 
 ## How to reach me: 
 📫 School Email: Topi.Setala@student.lab.fi
