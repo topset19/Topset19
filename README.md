@@ -1,6 +1,6 @@
 # About me
 
-My name is Topi and I'm currently studying Industrial Information Technology at LAB University of Applied Science. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
+My name is Topi and I'm currently studying Industrial Information Technology at Lab University of Applied Science. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
 
 😄 Pronouns: He/Him
 
@@ -10,19 +10,20 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 
 💬 Ask me about: DataBases and MERN Applications
 
-## Coding Languages and Proficiencies 20.11.2024
+## Coding Languages and Proficiencies 01.05.2025
 
-💻 Python: (Intermediate) - Currently Learning 
+💻 Python: Effective 
 
-💻 Javascript & Typescript: (Intermediate) 
+💻 Javascript & Typescript: Capable
  
-💻 C++: (Intermediate)
+💻 C++: Intermediate
 
-💻 Swift: (Capable)
+💻 Swift: Intermediate
 
-💻 HTML & CSS: (effective) - Currently Learning
+💻 HTML & CSS: Effective
 
-💻 C# (Novice) - Currently Learning
+💻 C#: Capable - Currently Learning
+
 
 ## How to reach me: 
 📫 School Email: Topi.Setala@student.lab.fi
