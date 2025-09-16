@@ -1,6 +1,5 @@
 # About me
-
-Nickname Topi.JS (Johannes Setälä) and I'm currently studying Industrial Information Technology. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
+Currently studying Industrial Information Technology. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
 
 Pronouns: He/Him
 
