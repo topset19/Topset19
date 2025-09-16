@@ -1,16 +1,16 @@
 # About me
 
-My name is Topi and I'm currently studying Industrial Information Technology at Lab University of Applied Science. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
+Nickname Topi.JS (Johannes Setälä) and I'm currently studying Industrial Information Technology. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
 
-🤩 Really into technology and cybersecurity
+Really into technology and cybersecurity
 
-🙏🏾 Good communication and social skills
+Good communication and social skills
 
-💬 Ask me about: DataBases and MERN Applications
+💬 Ask me about: MERN applications and system architecture
 
-## Coding Languages and Proficiencies 01.05.2025
+## Coding Languages and Proficiencies 16.09.2025
 
 💻 Python: Effective 
 
@@ -18,12 +18,13 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
  
 💻 C++: Intermediate
 
+💻 C: Capable (preference)
+
 💻 Swift: Intermediate
 
 💻 HTML & CSS: Effective
 
-💻 C#: Capable - Currently Learning
-
+💻 C#: Capable 
 
 ## How to reach me: 
 📫 School Email: Topi.Setala@student.lab.fi
@@ -32,5 +33,5 @@ My name is Topi and I'm currently studying Industrial Information Technology at 
 
 📲 Phone Number: 0456918680 : +358456918680
 
-⚡ Fun fact: I hate carrots. No particular reason, I just don't like them. I can also juggle (for 30s)!
+⚡ Some facts: I hate carrots. No particular reason, I just don't like them. I can also juggle (for 30s)!
 
