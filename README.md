@@ -1,13 +1,9 @@
 # About me
 Currently studying Industrial Information Technology. I’m looking to collaborate on projects that are both intensive, fun, informative and have impact. 
-
-Pronouns: He/Him
-
-Really into technology and cybersecurity
+ 
+Enthusiastic about cybersecurity and programming
 
 Good communication and social skills
-
-💬 Ask me about: MERN applications and system architecture
 
 ## Programming
 
@@ -25,7 +21,7 @@ Good communication and social skills
 
 📫 School Email: Topi.Setala@student.lab.fi
 
-📭 Personal Email: Topset19@gmail.com 
+📭 Personal Email: Setala.Johannes@gmail.com
 
 📲 Phone Number: 0456918680 : +358456918680
 
